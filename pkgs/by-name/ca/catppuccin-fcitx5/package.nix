@@ -6,12 +6,12 @@
 }:
 stdenvNoCC.mkDerivation {
   pname = "catppuccin-fcitx5";
-  version = "0-unstable-2022-10-05";
+  version = "0-unstable-2024-09-01";
 
   src = fetchFromGitHub {
     owner = "catppuccin";
     repo = "fcitx5";
-    rev = "ce244cfdf43a648d984719fdfd1d60aab09f5c97";
+    rev = "6e736a0b1c6707c776c122b752c43842e24b7c75";
     hash = "sha256-uFaCbyrEjv4oiKUzLVFzw+UY54/h7wh2cntqeyYwGps=";
   };
 

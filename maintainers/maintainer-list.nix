@@ -14530,6 +14530,11 @@
     githubId = 96225281;
     name = "Mustafa Çalışkan";
   };
+  musjj = {
+    name = "musjj";
+    github = "musjj";
+    githubId = 72612857;
+  };
   mvisonneau = {
     name = "Maxime VISONNEAU";
     email = "maxime@visonneau.fr";
